@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "New Website"
+date:   2024-09-05T13:08:40.775306+01:00
+categories: website
+---
+# First blog post
+
+Honestly, don't get too excited. This probably won't get updated all that often. 
+
+But hey, I guess we need to start somewhere!
